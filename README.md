@@ -7,5 +7,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+
+# This a ready laravel app configuared with tailwindcss v2
+<br/>
+
+## to use it follow this steps
+<ul>
+    <li>run $composer install</li>
+    <li>copy all content from .env.exmaple to a new file with name .env</li>
+    <li> run $php artisan key:generate</li>
+    <li> run npm install</li>
+    <li>run $npm run dev to compile tailwind</li>
+</ul>
+
+
+
+
 
